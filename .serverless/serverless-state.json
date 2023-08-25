@@ -9,11 +9,7 @@
       "runtime": "nodejs16.x",
       "stage": "dev",
       "region": "us-east-1",
-      "environment": {
-        "mongoUrl": "mongodb+srv://utdsi:utkarsh@cluster0.ohobdsj.mongodb.net/Homedrop?retryWrites=true&w=majority",
-        "jwtpasscode": "123456",
-        "google": "akcbjbeakosbuzuf"
-      },
+      
       "versionFunctions": true,
       "compiledCloudFormationTemplate": {
         "AWSTemplateFormatVersion": "2010-09-09",
